@@ -7,3 +7,5 @@
 # web-bluetooth-example-using-microbit
 
 + ## [Web Bluetooth example using BBC micro:bit](https://github.com/softgraph/web-bluetooth-example-using-microbit)
+
+© 2019 Softgraph, Inc.
