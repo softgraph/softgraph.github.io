@@ -6,6 +6,6 @@
 
 # web-bluetooth-example-using-microbit
 
-+ ## [BBC micro:bit を使った Web Bluetooth 利用例](https://github.com/softgraph/web-bluetooth-example-using-microbit/blob/master/README.ja.md)
++ ## [BBC micro:bit を使った Web Bluetooth 利用例](https://github.com/softgraph/web-bluetooth-example-using-microbit/blob/master/README_ja.md)
 
 © 2019 Softgraph, Inc.
